@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4327CAD11CC8DFF800600A58"
+               BlueprintIdentifier = "4327CAEF1CC8FF6F00600A58"
                BuildableName = "Navigation Bar.app"
                BlueprintName = "Navigation Bar"
                ReferencedContainer = "container:Navigation Bar.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4327CAD11CC8DFF800600A58"
+            BlueprintIdentifier = "4327CAEF1CC8FF6F00600A58"
             BuildableName = "Navigation Bar.app"
             BlueprintName = "Navigation Bar"
             ReferencedContainer = "container:Navigation Bar.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4327CAD11CC8DFF800600A58"
+            BlueprintIdentifier = "4327CAEF1CC8FF6F00600A58"
             BuildableName = "Navigation Bar.app"
             BlueprintName = "Navigation Bar"
             ReferencedContainer = "container:Navigation Bar.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4327CAD11CC8DFF800600A58"
+            BlueprintIdentifier = "4327CAEF1CC8FF6F00600A58"
             BuildableName = "Navigation Bar.app"
             BlueprintName = "Navigation Bar"
             ReferencedContainer = "container:Navigation Bar.xcodeproj">
