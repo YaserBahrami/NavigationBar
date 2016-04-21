@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4327CAEF1CC8FF6F00600A58"
-               BuildableName = "Navigation Bar.app"
-               BlueprintName = "Navigation Bar"
-               ReferencedContainer = "container:Navigation Bar.xcodeproj">
+               BlueprintIdentifier = "4327CB0D1CC9025C00600A58"
+               BuildableName = "NavigationBar.app"
+               BlueprintName = "NavigationBar"
+               ReferencedContainer = "container:NavigationBar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4327CAEF1CC8FF6F00600A58"
-            BuildableName = "Navigation Bar.app"
-            BlueprintName = "Navigation Bar"
-            ReferencedContainer = "container:Navigation Bar.xcodeproj">
+            BlueprintIdentifier = "4327CB0D1CC9025C00600A58"
+            BuildableName = "NavigationBar.app"
+            BlueprintName = "NavigationBar"
+            ReferencedContainer = "container:NavigationBar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4327CAEF1CC8FF6F00600A58"
-            BuildableName = "Navigation Bar.app"
-            BlueprintName = "Navigation Bar"
-            ReferencedContainer = "container:Navigation Bar.xcodeproj">
+            BlueprintIdentifier = "4327CB0D1CC9025C00600A58"
+            BuildableName = "NavigationBar.app"
+            BlueprintName = "NavigationBar"
+            ReferencedContainer = "container:NavigationBar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4327CAEF1CC8FF6F00600A58"
-            BuildableName = "Navigation Bar.app"
-            BlueprintName = "Navigation Bar"
-            ReferencedContainer = "container:Navigation Bar.xcodeproj">
+            BlueprintIdentifier = "4327CB0D1CC9025C00600A58"
+            BuildableName = "NavigationBar.app"
+            BlueprintName = "NavigationBar"
+            ReferencedContainer = "container:NavigationBar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

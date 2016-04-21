@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Navigation Bar.xcscheme</key>
+		<key>NavigationBar.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4327CAEF1CC8FF6F00600A58</key>
+		<key>4327CB0D1CC9025C00600A58</key>
 		<dict>
 			<key>primary</key>
 			<true/>
